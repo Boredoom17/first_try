@@ -1,0 +1,114 @@
+.my-title-class{
+    background-image: url(photos/mlbb.jpg);
+    background-size: auto; /* or 'contain' depending on your preference */
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(253, 1, 1);
+    text-align: center;
+    padding: 0;
+    background-attachment: fixed;
+    height:650px;
+    text-shadow: -2px -2px 5px rgba(240, 7, 7, 0.621);
+}
+
+
+
+
+
+.my-wanwan-class {
+    background-image: url(photos/wanwan11.jpg);
+    background-size: auto; /* or 'contain' depending on your preference */
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(253, 1, 1);
+    text-align: center;
+    padding: 0;
+    background-attachment: fixed;
+    height: 1200px;
+    text-shadow: -2px -2px 5px rgba(240, 7, 7, 0.621);
+    border-radius: 5px;
+}
+
+
+b {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+    
+}
+ 
+.my-balmond-class {
+    background-image: url(photos/balmod.jpg);
+    background-size: auto; /* or 'contain' depending on your preference */
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(253, 1, 1);
+    text-align: center;
+    padding: 0;
+    background-attachment: fixed;
+    height: 1200px;
+    text-shadow: -2px -2px 5px rgba(240, 7, 7, 0.621);
+    border-radius: 5px;
+   
+}
+
+.my-sun-class {
+    background-image: url(photos/sun.jpg);
+    background-size: auto; /* or 'contain' depending on your preference */
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(253, 1, 1);
+    text-align: center;
+    padding: 0;
+    background-attachment: fixed;
+    height: 1200px;
+    text-shadow: -2px -2px 5px rgba(240, 7, 7, 0.621);
+    border-radius: 5px;
+   
+}
+
+.my-arlott-class {
+    background-image: url(photos/arlott.jpg);
+    background-size: auto; /* or 'contain' depending on your preference */
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(253, 1, 1);
+    text-align: center;
+    padding: 0;
+    background-attachment: fixed;
+    height: 1200px;
+    text-shadow: -2px -2px 5px rgba(240, 7, 7, 0.621);
+    border-radius: 5px;
+   
+}
+
+
+.my-franco-class {
+    background-image: url(photos/franco.webp);
+    background-size: auto; /* or 'contain' depending on your preference */
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(253, 1, 1);
+    text-align: center;
+    padding: 0;
+    background-attachment: fixed;
+    height: 1200px;
+    text-shadow: -2px -2px 5px rgba(240, 7, 7, 0.621);
+    border-radius: 5px;
+   
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+}
+
+body {
+    background-color: #38cdfb; /* Change this color code to the desired background color */
+}
